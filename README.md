@@ -4,6 +4,11 @@
 3. Run the following command to install the Kraken generator:
 `[sudo] npm install -g yo generator-kraken bower grunt-cli`
 
+## Terminal / Command Line for Windows users
+Please use the **Git Bash** application installed with **Git** to emulate the Unix commands used throughout the workshop.
+
+For a brief overview of some of the commands, please refer to the **Working with the file system** section of the following [link](http://www.codeproject.com/Articles/457305/Basic-Git-Command-Line-Reference-for-Windows-Users).
+
 ## Editors and IDEs (Optional)
 Mac: [Sublime Text](http://www.sublimetext.com/) or [Atom](https://atom.io/).
 
